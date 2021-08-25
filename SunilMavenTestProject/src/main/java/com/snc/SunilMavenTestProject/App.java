@@ -6,8 +6,6 @@ package com.snc.SunilMavenTestProject;
  */
 public class App {
     public static void main( String[] args ) {
-        System.out.println("731: Story update 731");
-        System.out.println("732: Story update 732");
-        System.out.println("733: Story update 733");
+        System.out.println("736: Story update 736");
     }
 }
