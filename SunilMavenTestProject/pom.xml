@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.sn.</groupId>
-  <artifactId>TestProject_120</artifactId>
+  <artifactId>SunilMavenTestProject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>TestProject_120</name>
+  <name>SunilMavenTestProject</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
